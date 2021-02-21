@@ -29,3 +29,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Preview
 
+![](./public/assets/images/Note-Taker.gif)
+
+## Deployable link
+
+https://secure-garden-35026.herokuapp.com/
